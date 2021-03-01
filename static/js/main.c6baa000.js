@@ -63,4 +63,4 @@ license test1000
 @license test3000
 1231
 */
-function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsxs)("header",{className:"App-header",children:[Object(i.jsx)("h1",{children:99}),Object(i.jsx)("button",{onClick:function(){console.log(Object({NODE_ENV:"production",PUBLIC_URL:"",WDS_SOCKET_HOST:void 0,WDS_SOCKET_PATH:void 0,WDS_SOCKET_PORT:void 0,FAST_REFRESH:!0}))},children:"1211111"}),Object(i.jsx)(l,{})]})})};r.a.render(Object(i.jsx)(a.a.StrictMode,{children:Object(i.jsx)(n,{})}),document.getElementById("root"))}]);
+function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsxs)("header",{className:"App-header",children:[Object(i.jsx)("h1",{children:99}),Object(i.jsx)("button",{onClick:function(){console.log(Object({NODE_ENV:"production",PUBLIC_URL:"",WDS_SOCKET_HOST:void 0,WDS_SOCKET_PATH:void 0,WDS_SOCKET_PORT:void 0,FAST_REFRESH:!0}))},children:"1111111"}),Object(i.jsx)(l,{})]})})};r.a.render(Object(i.jsx)(a.a.StrictMode,{children:Object(i.jsx)(n,{})}),document.getElementById("root"))}]);
