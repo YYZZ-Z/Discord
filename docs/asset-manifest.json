@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.912d6ed8.css",
-    "main.js": "/static/js/main.8859374c.js",
-    "main.css.map": "/static/css/main.912d6ed8.css.map",
+    "main.css": "/static/css/main.3746c776.css",
+    "main.js": "/static/js/main.28453ebb.js",
+    "main.css.map": "/static/css/main.3746c776.css.map",
     "index.html": "/index.html",
-    "static/media/favicon.ede7a982.ico": "/static/media/favicon.ede7a982.ico"
+    "static/media/favicon.ede7a982.ico": "/static/media/favicon.ede7a982.ico",
+    "static/media/ricky-kharawala-adK3Vu70DEQ-unsplash.085d789b.jpg": "/static/media/ricky-kharawala-adK3Vu70DEQ-unsplash.085d789b.jpg"
   },
   "entrypoints": [
-    "static/css/main.912d6ed8.css",
-    "static/js/main.8859374c.js"
+    "static/css/main.3746c776.css",
+    "static/js/main.28453ebb.js"
   ]
 }
