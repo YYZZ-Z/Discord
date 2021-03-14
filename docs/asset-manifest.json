@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ec364c0.chunk.css",
-    "main.js": "/static/js/main.c326a53c.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.16579c54.js",
-    "static/css/2.41a8f5ae.chunk.css": "/static/css/2.41a8f5ae.chunk.css",
-    "static/js/2.e41fe636.chunk.js": "/static/js/2.e41fe636.chunk.js",
-    "static/js/2.e41fe636.chunk.js.map": "/static/js/2.e41fe636.chunk.js.map",
+    "main.css": "/static/css/main.e334713d.css",
+    "main.js": "/static/js/main.976b38fb.js",
+    "main.css.map": "/static/css/main.e334713d.css.map",
     "index.html": "/index.html",
-    "static/css/2.41a8f5ae.chunk.css.map": "/static/css/2.41a8f5ae.chunk.css.map",
-    "static/css/main.7ec364c0.chunk.css.map": "/static/css/main.7ec364c0.chunk.css.map",
-    "static/js/2.e41fe636.chunk.js.LICENSE.txt": "/static/js/2.e41fe636.chunk.js.LICENSE.txt",
     "static/media/favicon.ede7a982.ico": "/static/media/favicon.ede7a982.ico",
     "static/media/ricky-kharawala-adK3Vu70DEQ-unsplash.085d789b.jpg": "/static/media/ricky-kharawala-adK3Vu70DEQ-unsplash.085d789b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.16579c54.js",
-    "static/css/2.41a8f5ae.chunk.css",
-    "static/js/2.e41fe636.chunk.js",
-    "static/css/main.7ec364c0.chunk.css",
-    "static/js/main.c326a53c.chunk.js"
+    "static/css/main.e334713d.css",
+    "static/js/main.976b38fb.js"
   ]
 }
