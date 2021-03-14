@@ -4,8 +4,6 @@ object-assign
 @license MIT
 */
 
-/*! For license information please see 2.e41fe636.chunk.js.LICENSE */
-
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
