@@ -1,3 +1,8 @@
+.home_container .hr{
+  background:radial-gradient(ellipse, #991b1b, rgba(153,27,27,0));
+  height:4px
+}
+
 /*!
  * 
  * antd v4.13.1
@@ -35413,6 +35418,15 @@ video {
   height: auto;
 }
 
+.bg-gray-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(75, 85, 99, var(--tw-bg-opacity));
+}
+
+.bg-opacity-70 {
+  --tw-bg-opacity: 0.7;
+}
+
 .bg-center {
   background-position: center;
 }
@@ -35425,12 +35439,85 @@ video {
   background-size: cover;
 }
 
+.border-green-400 {
+  --tw-border-opacity: 1;
+  border-color: rgba(52, 211, 153, var(--tw-border-opacity));
+}
+
+.hover\:border-white:hover {
+  --tw-border-opacity: 1;
+  border-color: rgba(255, 255, 255, var(--tw-border-opacity));
+}
+
+.border-opacity-70 {
+  --tw-border-opacity: 0.7;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.border-solid {
+  border-style: solid;
+}
+
+.border-2 {
+  border-width: 2px;
+}
+
+.flex {
+  display: flex;
+}
+
 .table {
   display: table;
 }
 
+.items-center {
+  align-items: center;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.h-7 {
+  height: 1.75rem;
+}
+
+.h-12 {
+  height: 3rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-7xl {
+  font-size: 4.5rem;
+  line-height: 1;
+}
+
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
+}
+
+.min-w-full {
+  min-width: 100%;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.pt-8 {
+  padding-top: 2rem;
 }
 
 * {
@@ -35446,9 +35533,37 @@ video {
   --tw-ring-shadow: 0 0 #0000;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+
 .text-red-600 {
   --tw-text-opacity: 1;
   color: rgba(220, 38, 38, var(--tw-text-opacity));
+}
+
+.text-red-800 {
+  --tw-text-opacity: 1;
+  color: rgba(153, 27, 27, var(--tw-text-opacity));
+}
+
+.text-green-400 {
+  --tw-text-opacity: 1;
+  color: rgba(52, 211, 153, var(--tw-text-opacity));
+}
+
+.hover\:text-white:hover {
+  --tw-text-opacity: 1;
+  color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+
+.w-32 {
+  width: 8rem;
 }
 
 @keyframes spin {
@@ -35483,6 +35598,9 @@ video {
 }
 
 @media (min-width: 640px) {
+  .sm\:p-5 {
+    padding: 1.25rem;
+  }
 }
 
 @media (min-width: 768px) {
@@ -35503,4 +35621,4 @@ body{
 }
 
 
-/*# sourceMappingURL=main.e334713d.css.map*/
+/*# sourceMappingURL=main.ee268460.css.map*/
